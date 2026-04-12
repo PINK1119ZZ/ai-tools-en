@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-04-11T19:30:00Z",
+  "lastUpdated": "2026-04-12T14:58:00Z",
   "status": "active",
   "agentLog": [
+    {
+      "date": "2026-04-12",
+      "action": "published",
+      "file": "posts/claude-vs-chatgpt-for-business-2026.html",
+      "title": "Claude vs ChatGPT for Business 2026: Which AI Is Worth Paying For?",
+      "keywords": ["claude vs chatgpt", "claude vs chatgpt for business", "best ai model for business 2026"],
+      "wordCount": 2200,
+      "affiliateLinks": ["https://m.do.co/c/6121a295f624"],
+      "notes": "High commercial intent 'vs' comparison article. Claude wins writing/long docs, ChatGPT wins ecosystem/images. DigitalOcean affiliate CTAs x2. Updated index.html."
+    },
     {
       "date": "2026-04-11",
       "action": "published",
@@ -15,14 +25,31 @@
   ],
   "publishedPosts": [
     {
+      "slug": "claude-vs-chatgpt-for-business-2026",
+      "url": "https://pink1119zz.github.io/ai-tools-en/posts/claude-vs-chatgpt-for-business-2026.html",
+      "publishedAt": "2026-04-12",
+      "title": "Claude vs ChatGPT for Business 2026: Which AI Is Worth Paying For?"
+    },
+    {
       "slug": "best-ai-tools-for-freelancers-2026",
       "url": "https://pink1119zz.github.io/ai-tools-en/posts/best-ai-tools-for-freelancers-2026.html",
       "publishedAt": "2026-04-11",
       "title": "7 Best AI Tools for Freelancers in 2026 (Ranked by ROI)"
+    },
+    {
+      "slug": "ai-agents-guide-2026",
+      "url": "https://pink1119zz.github.io/ai-tools-en/posts/ai-agents-guide-2026.html",
+      "publishedAt": "2026-04-12",
+      "title": "AI Agents Complete Guide 2026"
+    },
+    {
+      "slug": "rag-explained-2026",
+      "url": "https://pink1119zz.github.io/ai-tools-en/posts/rag-explained-2026.html",
+      "publishedAt": "2026-04-12",
+      "title": "What Is RAG? Retrieval-Augmented Generation Explained for Business (2026)"
     }
   ],
   "topicBacklog": [
-    "claude vs chatgpt for business 2026",
     "best ai tools for content creators",
     "notion ai vs obsidian for freelancers",
     "github copilot alternatives 2026",
