@@ -688,5 +688,23 @@
     });
 </script>
 
+
+
+<script>
+function submitNewsletter(form, source) {
+  var email = form.email.value;
+  var btn = form.querySelector('button');
+  btn.disabled = true; btn.textContent = '...';
+  fetch('https://newsletter-api.76.13.219.163.nip.io/api/subscribe', {
+    method: 'POST',
+    headers: {'Content-Type': 'application/json'},
+    body: JSON.stringify({email: email, source: source})
+  }).then(function(r){return r.json()}).then(function(d){
+    if(d.ok){ btn.textContent = 'Subscribed ✓'; btn.style.background='#10b981'; btn.style.color='white'; form.email.disabled=true; }
+    else { btn.textContent = d.error||'Error'; btn.disabled=false; }
+  }).catch(function(){ btn.textContent='Error'; btn.disabled=false; });
+  return false;
+}
+</script>
 </body>
 </html>
