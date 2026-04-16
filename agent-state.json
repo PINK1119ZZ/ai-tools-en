@@ -1,7 +1,22 @@
 {
-  "lastUpdated": "2026-04-15T07:00:00Z",
+  "lastUpdated": "2026-04-16T04:01:00Z",
   "status": "active",
   "agentLog": [
+    {
+      "date": "2026-04-16",
+      "action": "published",
+      "file": "posts/capcut-vs-descript-for-video-creators-2026.html",
+      "title": "CapCut vs Descript 2026: Which Video Editor Wins for Creators?",
+      "keywords": ["capcut vs descript", "capcut vs descript 2026", "best video editor for content creators", "descript alternative", "capcut review 2026", "video editing ai tools", "descript vs capcut youtube"],
+      "wordCount": 2300,
+      "affiliateLinks": [
+        "https://vbtrax.com/track/clicks/9453/c627c2bc9b0126dafe8dec2bd32e9d452d6745c963bcb0f90067b504641200a8cd3ea5e2576e9f663499abdb4aee7abb970d",
+        "https://m.do.co/c/6121a295f624",
+        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
+        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f"
+      ],
+      "notes": "High commercial intent X vs Y comparison. CapCut (#1 short-form), Descript (#2 long-form). 4 affiliate programs: CapCut (primary), DigitalOcean, Cloudways, Systeme.io. Gradient CTA buttons throughout. Power-user combo workflow section. Score comparison grid. Updated sitemap and index.html. Removed 'capcut vs descript for video creators' from topicBacklog."
+    },
     {
       "date": "2026-04-15",
       "action": "published",
@@ -70,6 +85,12 @@
   ],
   "publishedPosts": [
     {
+      "slug": "capcut-vs-descript-for-video-creators-2026",
+      "url": "https://pink1119zz.github.io/ai-tools-en/posts/capcut-vs-descript-for-video-creators-2026.html",
+      "publishedAt": "2026-04-16",
+      "title": "CapCut vs Descript 2026: Which Video Editor Wins for Creators?"
+    },
+    {
       "slug": "best-no-code-ai-automation-tools-2026",
       "url": "https://pink1119zz.github.io/ai-tools-en/posts/best-no-code-ai-automation-tools-2026.html",
       "publishedAt": "2026-04-15",
@@ -117,8 +138,7 @@
     "github copilot alternatives 2026",
     "digitalocean vs vercel for indie hackers",
     "best ai tools for small business 2026",
-    "systeme.io vs clickfunnels 2026",
-    "capcut vs descript for video creators"
+    "systeme.io vs clickfunnels 2026"
   ],
   "internalLinkRuns": [
     {
