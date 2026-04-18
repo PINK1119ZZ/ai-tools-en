@@ -1,7 +1,22 @@
 {
-  "lastUpdated": "2026-04-17T04:01:00Z",
+  "lastUpdated": "2026-04-18T04:00:00Z",
   "status": "active",
   "agentLog": [
+    {
+      "date": "2026-04-18",
+      "action": "published",
+      "file": "posts/digitalocean-vs-vercel-for-indie-hackers-2026.html",
+      "title": "DigitalOcean vs Vercel 2026: Which Is Better for Indie Hackers?",
+      "keywords": ["digitalocean vs vercel", "digitalocean vs vercel 2026", "vercel alternative", "digitalocean review 2026", "best hosting for indie hackers", "vercel pricing", "digitalocean droplets", "indie hacker hosting"],
+      "wordCount": 2350,
+      "affiliateLinks": [
+        "https://m.do.co/c/6121a295f624",
+        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
+        "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
+        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f"
+      ],
+      "notes": "High commercial intent X vs Y comparison. DigitalOcean wins decisively on pricing predictability, full-stack support, and no bill-shock risk. 4 affiliate programs: DigitalOcean (primary), Cloudways, UltaHost, Systeme.io (FAQ mention). Score comparison grid, detailed pricing tables, feature matrix, FAQ section, use-case cards, real indie stack blueprint. Updated sitemap, index.html. Removed 'digitalocean vs vercel for indie hackers' from topicBacklog."
+    },
     {
       "date": "2026-04-17",
       "action": "published",
@@ -31,7 +46,7 @@
         "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
         "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f"
       ],
-      "notes": "High commercial intent X vs Y comparison. CapCut (#1 short-form), Descript (#2 long-form). 4 affiliate programs: CapCut (primary), DigitalOcean, Cloudways, Systeme.io. Gradient CTA buttons throughout. Power-user combo workflow section. Score comparison grid. Updated sitemap and index.html. Removed 'capcut vs descript for video creators' from topicBacklog."
+      "notes": "High commercial intent X vs Y comparison."
     },
     {
       "date": "2026-04-15",
@@ -47,7 +62,7 @@
         "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
         "https://afflink.one/s/aavAC"
       ],
-      "notes": "High commercial intent 'best no-code X tools' listicle. 7 tools: Make (#1), Systeme.io (#2), DigitalOcean (#3), Cloudways (#4), n8n (#5), DataCamp (#6), UltaHost (#7). All 5 major affiliate programs represented. Gradient button CTAs throughout. Updated sitemap and index.html. Removed 'best no-code ai automation tools' from topicBacklog."
+      "notes": "High commercial intent 'best no-code X tools' listicle."
     },
     {
       "date": "2026-04-14",
@@ -66,7 +81,7 @@
         "https://m.do.co/c/6121a295f624",
         "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71"
       ],
-      "notes": "High commercial intent 'best X for Y' listicle. 9 tools across video editing, learning, hosting, security, and monetization. All 8 affiliate programs represented. Gradient button CTAs throughout. Updated sitemap and index.html."
+      "notes": "High commercial intent 'best X for Y' listicle."
     },
     {
       "date": "2026-04-13",
@@ -100,6 +115,12 @@
     }
   ],
   "publishedPosts": [
+    {
+      "slug": "digitalocean-vs-vercel-for-indie-hackers-2026",
+      "url": "https://pink1119zz.github.io/ai-tools-en/posts/digitalocean-vs-vercel-for-indie-hackers-2026.html",
+      "publishedAt": "2026-04-18",
+      "title": "DigitalOcean vs Vercel 2026: Which Is Better for Indie Hackers?"
+    },
     {
       "slug": "systeme-io-vs-clickfunnels-2026",
       "url": "https://pink1119zz.github.io/ai-tools-en/posts/systeme-io-vs-clickfunnels-2026.html",
@@ -158,7 +179,6 @@
   "topicBacklog": [
     "notion ai vs obsidian for freelancers",
     "github copilot alternatives 2026",
-    "digitalocean vs vercel for indie hackers",
     "best ai tools for small business 2026"
   ],
   "internalLinkRuns": [
