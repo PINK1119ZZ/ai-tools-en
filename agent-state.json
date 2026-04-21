@@ -1,7 +1,25 @@
 {
-  "lastUpdated": "2026-04-20T04:01:00Z",
+  "lastUpdated": "2026-04-21T04:00:00Z",
   "status": "active",
   "agentLog": [
+    {
+      "date": "2026-04-21",
+      "action": "published",
+      "file": "posts/notion-ai-vs-obsidian-for-freelancers-2026.html",
+      "title": "Notion AI vs Obsidian for Freelancers 2026: Which Wins for Productivity?",
+      "keywords": ["notion ai vs obsidian", "notion vs obsidian for freelancers", "notion ai vs obsidian 2026", "best note taking app freelancers", "obsidian review 2026", "notion ai review 2026", "notion vs obsidian productivity", "freelancer knowledge management"],
+      "wordCount": 2400,
+      "affiliateLinks": [
+        "https://m.do.co/c/6121a295f624",
+        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
+        "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
+        "https://afflink.one/s/aavAC",
+        "https://onelink.one/s/7WSzC",
+        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f",
+        "https://xiaofan8.gumroad.com/l/kknad"
+      ],
+      "notes": "High commercial intent 'X vs Y for freelancers' comparison. Notion AI vs Obsidian: scorecard (7.8 vs 7.6), full feature comparison table, deep dive sections for each tool, pro/con cards, pricing breakdown (5-year TCO), 6 freelancer persona use-cases, hybrid stack recommendation, hosting CTA (DO/Cloudways/UltaHost), DataCamp skill-up CTA, Gumroad+Systeme.io monetization CTA, NordVPN security CTA, 6-question FAQ. All 7 affiliate programs hit. Internal links to freelancers-2026, no-code-automation-2026, ai-writing-tools-seo-2026. Updated sitemap, index.html. Cleared 'notion ai vs obsidian for freelancers' from topicBacklog."
+    },
     {
       "date": "2026-04-20",
       "action": "published",
@@ -19,7 +37,7 @@
         "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
         "https://xiaofan8.gumroad.com/l/kknad"
       ],
-      "notes": "High commercial intent 'best AI tools for small business' listicle. 9 tools ranked: Systeme.io (Editor's Pick), DigitalOcean, Cloudways, CapCut, DataCamp, NordVPN, UltaHost, Gumroad, ChatGPT/Claude. All 8 affiliate programs covered. 3-stage lean AI stack blueprint (startup / growth / established). Comparison table, pro/con cards, FAQ (6 questions), gradient CTAs throughout. Internal links to 4 existing posts. Updated sitemap, index.html. Removed 'best ai tools for small business 2026' from topicBacklog."
+      "notes": "High commercial intent 'best AI tools for small business' listicle. 9 tools ranked. All 8 affiliate programs covered."
     },
     {
       "date": "2026-04-19",
@@ -35,7 +53,7 @@
         "https://afflink.one/s/aavAC",
         "https://onelink.one/s/7WSzC"
       ],
-      "notes": "High commercial intent 'best X alternatives' article. 7 tools ranked: Cursor (winner), Codeium, Amazon Q Developer, Tabnine, Supermaven, Continue.dev, + NordVPN security add-on. Gradient CTA buttons. Comparison table, pro/con cards, score grid, FAQ (6 questions), developer stack section with DO/Cloudways/UltaHost/DataCamp CTAs. 5 affiliate programs hit. Internal links to 4 existing posts. Removed 'github copilot alternatives 2026' from topicBacklog. Updated sitemap, index.html."
+      "notes": "High commercial intent 'best X alternatives' article."
     },
     {
       "date": "2026-04-18",
@@ -151,6 +169,12 @@
   ],
   "publishedPosts": [
     {
+      "slug": "notion-ai-vs-obsidian-for-freelancers-2026",
+      "url": "https://pink1119zz.github.io/ai-tools-en/posts/notion-ai-vs-obsidian-for-freelancers-2026.html",
+      "publishedAt": "2026-04-21",
+      "title": "Notion AI vs Obsidian for Freelancers 2026: Which Wins for Productivity?"
+    },
+    {
       "slug": "best-ai-tools-for-small-business-2026",
       "url": "https://pink1119zz.github.io/ai-tools-en/posts/best-ai-tools-for-small-business-2026.html",
       "publishedAt": "2026-04-20",
@@ -223,10 +247,19 @@
       "title": "What Is RAG? Retrieval-Augmented Generation Explained for Business (2026)"
     }
   ],
-  "topicBacklog": [
-    "notion ai vs obsidian for freelancers"
-  ],
+  "topicBacklog": [],
   "internalLinkRuns": [
+    {
+      "date": "2026-04-21",
+      "action": "internal_link_optimization",
+      "articlesEdited": ["posts/notion-ai-vs-obsidian-for-freelancers-2026.html"],
+      "linksAdded": [
+        {"file": "notion-ai-vs-obsidian-for-freelancers-2026.html", "anchor": "7 Best AI Tools for Freelancers in 2026", "target": "best-ai-tools-for-freelancers-2026.html"},
+        {"file": "notion-ai-vs-obsidian-for-freelancers-2026.html", "anchor": "best no-code automation tools", "target": "best-no-code-ai-automation-tools-2026.html"},
+        {"file": "notion-ai-vs-obsidian-for-freelancers-2026.html", "anchor": "best AI writing tools for SEO", "target": "best-ai-writing-tools-for-seo-2026.html"}
+      ],
+      "notes": "3 internal links to existing high-authority posts in the freelance-facing closing section"
+    },
     {
       "date": "2026-04-15",
       "action": "internal_link_optimization",
