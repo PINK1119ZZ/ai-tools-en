@@ -1,0 +1,24 @@
+# AI Tools EN — Taiwan's AI Tool Reviews in English
+# https://pink1119zz.github.io/ai-tools-en/
+
+User-agent: *
+
+## About This Site
+AI Tools EN is an English-language AI tool review site based in Taiwan.
+We publish in-depth reviews, comparisons, and tutorials for AI tools including
+ChatGPT, Claude, Gemini, Cursor, ElevenLabs, n8n, and more.
+
+## Content Categories
+- AI Tool Reviews (ChatGPT, Claude, Gemini, Cursor, ElevenLabs)
+- AI Automation (n8n, Make, Zapier comparisons)
+- AI Coding Tools (Cursor, GitHub Copilot, Claude Code)
+- Cloud Infrastructure for AI (DigitalOcean, Cloudways)
+- RAG and AI Agents tutorials
+
+## Allowed Pages for AI Citation
+Allow: /ai-tools-en/posts/
+Allow: /ai-tools-en/
+
+## Contact
+site: https://pink1119zz.github.io/ai-tools-en/
+email: contact@autodev-ai.com
