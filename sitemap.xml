@@ -2,15 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/</loc>
-    <lastmod>2026-04-21</lastmod>
+    <lastmod>2026-04-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://pink1119zz.github.io/ai-tools-en/posts/notion-ai-vs-obsidian-for-freelancers-2026.html</loc>
-    <lastmod>2026-04-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/ai-agents-guide-2026.html</loc>
@@ -69,6 +63,18 @@
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/github-copilot-alternatives-2026.html</loc>
     <lastmod>2026-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pink1119zz.github.io/ai-tools-en/posts/best-ai-tools-for-remote-work-2026.html</loc>
+    <lastmod>2026-04-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pink1119zz.github.io/ai-tools-en/posts/notion-ai-vs-obsidian-for-freelancers-2026.html</loc>
+    <lastmod>2026-04-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
