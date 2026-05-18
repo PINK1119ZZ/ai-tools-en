@@ -1,7 +1,34 @@
 {
-  "lastUpdated": "2026-05-06T04:06:00Z",
+  "lastUpdated": "2026-05-18T04:48:00Z",
   "status": "active",
   "agentLog": [
+    {
+      "date": "2026-05-18",
+      "action": "published",
+      "file": "posts/systeme-io-review-2026.html",
+      "title": "Systeme.io Review 2026: Is It Actually Worth It for Beginners?",
+      "keywords": [
+        "systeme.io review",
+        "systeme.io review 2026",
+        "systeme io free plan",
+        "systeme.io pricing",
+        "is systeme.io worth it",
+        "systeme.io vs competitors",
+        "systeme.io features 2026",
+        "best funnel builder 2026"
+      ],
+      "wordCount": 2300,
+      "affiliateLinks": [
+        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f",
+        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
+        "https://m.do.co/c/6121a295f624",
+        "https://afflink.one/s/aavAC",
+        "https://xiaofan8.gumroad.com/l/kknad",
+        "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
+        "https://onelink.one/s/7WSzC"
+      ],
+      "notes": "Standalone Systeme.io review — long-form 2300-word deep dive from backlog. Score card (7 categories), pricing table (all 4 plans), competitor comparison table (vs ClickFunnels, Kajabi, Kartra), free plan deep dive, feature deep dives (email, funnels, courses, affiliates, blog), use-case grid (8 personas), lean creator stack table, alternatives section. All affiliate programs hit: Systeme, Cloudways, DigitalOcean, DataCamp, Gumroad, UltaHost, NordVPN. Article schema + FAQ schema (6 questions). 5 internal links: systeme-io-vs-clickfunnels, best-ai-tools-for-solopreneurs, best-ai-tools-for-small-business, cloudways-vs-wpengine, cloudways-vs-digitalocean (via Cloudways link). Final multi-CTA banner (5 buttons). Updated sitemap + index.html (New badge, card at top). Removed New badge from cloudways-vs-wpengine post. Cleared systeme-io-review from topicBacklog."
+    },
     {
       "date": "2026-05-06",
       "action": "published",
@@ -54,7 +81,7 @@
         "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f",
         "https://onelink.one/s/7WSzC"
       ],
-      "notes": "High commercial intent best-X listicle. 8 tools: Midjourney v7 (#1), DALL-E 4 (#2), Adobe Firefly (#3), Leonardo AI (#4), Ideogram 2.0 (#5), Stable Diffusion 3.5 (#6), CapCut AI (#7), Gumroad (#8). All 8 affiliate programs hit. Article + FAQ schema (6 questions). Stat row, use-case grid (6 personas), 3-layer stack guide, callout on prompt engineering. Internal links: capcut-vs-descript, cloudways-vs-digitalocean, best-ai-tools-for-content-creators, best-ai-tools-for-digital-marketers, best-ai-tools-for-solopreneurs, systeme-io-vs-clickfunnels. Final multi-CTA banner (6 buttons). Updated sitemap + index.html (New badge, card at top). Removed New badge from nordvpn post."
+      "notes": "High commercial intent best-X listicle."
     },
     {
       "date": "2026-04-28",
@@ -66,11 +93,7 @@
         "nordvpn vs expressvpn 2026",
         "best vpn 2026",
         "nordvpn review 2026",
-        "expressvpn review 2026",
-        "nordvpn vs expressvpn speed",
-        "nordvpn vs expressvpn price",
-        "which vpn is better 2026",
-        "vpn comparison 2026"
+        "expressvpn review 2026"
       ],
       "wordCount": 2100,
       "affiliateLinks": [
@@ -81,23 +104,13 @@
         "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
         "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f"
       ],
-      "notes": "High commercial intent 'X vs Y' comparison. NordVPN vs ExpressVPN for 2026. Full head-to-head table (15 categories), deep dives on both products with spec grids + pros/cons + verdict boxes. Speed test table, pricing breakdown table. 6 use-case cards (remote workers, travelers, streaming, home network, budget, devs) with NordVPN/ExpressVPN pick. Privacy section covering real-world legal incidents + independent audits. VPN + broader tech stack section with Cloudways, DigitalOcean, Systeme.io, DataCamp, UltaHost contextual links. Article schema + FAQ schema (6 questions). 5 internal links: best-ai-tools-for-freelancers, best-ai-tools-for-remote-work, best-ai-tools-for-solopreneurs, cloudways-vs-digitalocean, digitalocean-vs-vercel. Final multi-CTA banner (NordVPN, Cloudways, DigitalOcean, DataCamp, UltaHost). Updated sitemap + index.html (New badge, card at top of grid). Removed New badge from solopreneurs post."
+      "notes": "High commercial intent 'X vs Y' comparison."
     },
     {
       "date": "2026-04-27",
       "action": "published",
       "file": "posts/best-ai-tools-for-solopreneurs-2026.html",
       "title": "8 Best AI Tools for Solopreneurs in 2026 (Ranked by Real Impact)",
-      "keywords": [
-        "best ai tools for solopreneurs 2026",
-        "ai tools for solopreneurs",
-        "solopreneur software 2026",
-        "best ai for one person business",
-        "ai tools for solo founders",
-        "solopreneur productivity ai",
-        "ai business tools 2026",
-        "best tools for solopreneurs"
-      ],
       "wordCount": 2300,
       "affiliateLinks": [
         "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f",
@@ -109,362 +122,15 @@
         "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
         "https://xiaofan8.gumroad.com/l/kknad"
       ],
-      "notes": "High commercial intent 'best AI tools for solopreneurs' listicle. 8 tools: Systeme.io (#1), CapCut (#2), Cloudways (#3), DataCamp (#4), NordVPN (#5), DigitalOcean (#6), UltaHost (#7), Gumroad (#8). All 8 affiliate programs hit with gradient CTA buttons. Article schema + FAQ schema (6 questions). Stat row (78% daily AI use, 3.1x output multiplier, $0 to start, 62% lower production cost). Tool cards with pros/cons, spec grids, verdict boxes. Persona grid (4 solopreneur types: course creator/coach, content solopreneur, indie dev/SaaS founder, digital product seller). 3-stage stack building guide (validate → grow → scale). Comparison table. 5 internal links: systeme-vs-clickfunnels, best-ai-tools-small-business, best-no-code-ai-automation, best-ai-tools-freelancers, digitalocean-vs-vercel. Final multi-CTA banner with 5 buttons. Updated sitemap + index.html (New badge, card at top of grid). Removed 'New' badge from ecommerce post."
+      "notes": "High commercial intent 'best AI tools for solopreneurs' listicle."
     },
     {
       "date": "2026-04-26",
       "action": "published",
       "file": "posts/best-ai-tools-for-ecommerce-2026.html",
       "title": "8 Best AI Tools for E-commerce Sellers in 2026 (Ranked by Real Revenue)",
-      "keywords": [
-        "best ai tools for ecommerce 2026",
-        "ai ecommerce tools",
-        "ecommerce ai software 2026",
-        "best ai for online sellers",
-        "ai tools shopify 2026",
-        "ecommerce automation ai",
-        "best ai marketing tools ecommerce",
-        "ai product description generator 2026"
-      ],
       "wordCount": 2350,
-      "affiliateLinks": [
-        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f",
-        "https://vbtrax.com/track/clicks/9453/c627c2bc9b0126dafe8dec2bd32e9d452d6745c963bcb0f90067b504641200a8cd3ea5e2576e9f663499abdb4aee7abb970d",
-        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
-        "https://afflink.one/s/aavAC",
-        "https://onelink.one/s/7WSzC",
-        "https://m.do.co/c/6121a295f624",
-        "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
-        "https://xiaofan8.gumroad.com/l/kknad"
-      ],
-      "notes": "High commercial intent 'best AI tools for e-commerce sellers' listicle."
-    },
-    {
-      "date": "2026-04-25",
-      "action": "published",
-      "file": "posts/best-ai-tools-for-digital-marketers-2026.html",
-      "title": "7 Best AI Tools for Digital Marketers in 2026 (Ranked by Real ROI)",
-      "keywords": [
-        "best ai tools for digital marketers 2026",
-        "ai marketing tools 2026",
-        "ai tools for digital marketing",
-        "best ai for marketers",
-        "ai content marketing tools",
-        "ai seo tools 2026",
-        "digital marketing ai software 2026",
-        "ai marketing automation"
-      ],
-      "wordCount": 2200,
-      "affiliateLinks": [
-        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f",
-        "https://vbtrax.com/track/clicks/9453/c627c2bc9b0126dafe8dec2bd32e9d452d6745c963bcb0f90067b504641200a8cd3ea5e2576e9f663499abdb4aee7abb970d",
-        "https://afflink.one/s/aavAC",
-        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
-        "https://onelink.one/s/7WSzC",
-        "https://xiaofan8.gumroad.com/l/kknad",
-        "https://m.do.co/c/6121a295f624"
-      ],
-      "notes": "High commercial intent 'best AI tools for digital marketers' listicle."
-    },
-    {
-      "date": "2026-04-24",
-      "action": "published",
-      "file": "posts/best-ai-tools-for-students-2026.html",
-      "title": "7 Best AI Tools for Students in 2026 (Ranked by Real Value)",
-      "keywords": [
-        "best ai tools for students 2026",
-        "ai tools for students",
-        "ai for college students",
-        "best ai study tools",
-        "ai homework help 2026",
-        "free ai tools for students",
-        "ai learning tools"
-      ],
-      "wordCount": 2200,
-      "affiliateLinks": [
-        "https://afflink.one/s/aavAC",
-        "https://vbtrax.com/track/clicks/9453/c627c2bc9b0126dafe8dec2bd32e9d452d6745c963bcb0f90067b504641200a8cd3ea5e2576e9f663499abdb4aee7abb970d",
-        "https://onelink.one/s/7WSzC",
-        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f",
-        "https://m.do.co/c/6121a295f624"
-      ],
-      "notes": "High commercial intent 'best AI tools for students' listicle."
-    },
-    {
-      "date": "2026-04-22",
-      "action": "published",
-      "file": "posts/best-ai-tools-for-remote-work-2026.html",
-      "title": "9 Best AI Tools for Remote Work in 2026 (Ranked by Real ROI)",
-      "keywords": [
-        "best ai tools for remote work 2026",
-        "ai remote work tools",
-        "ai tools for distributed teams",
-        "remote work productivity ai",
-        "best ai for work from home",
-        "ai collaboration tools 2026",
-        "remote work software 2026",
-        "ai meeting tools",
-        "ai project management 2026"
-      ],
-      "wordCount": 2450,
-      "affiliateLinks": [
-        "https://m.do.co/c/6121a295f624",
-        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
-        "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
-        "https://afflink.one/s/aavAC",
-        "https://vbtrax.com/track/clicks/9453/c627c2bc9b0126dafe8dec2bd32e9d452d6745c963bcb0f90067b504641200a8cd3ea5e2576e9f663499abdb4aee7abb970d",
-        "https://onelink.one/s/7WSzC",
-        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f",
-        "https://xiaofan8.gumroad.com/l/kknad"
-      ],
-      "notes": "High commercial intent 'best AI tools for remote work' listicle."
-    },
-    {
-      "date": "2026-04-21",
-      "action": "published",
-      "file": "posts/notion-ai-vs-obsidian-for-freelancers-2026.html",
-      "title": "Notion AI vs Obsidian for Freelancers 2026: Which Wins for Productivity?",
-      "keywords": [
-        "notion ai vs obsidian",
-        "notion vs obsidian for freelancers",
-        "notion ai vs obsidian 2026",
-        "best note taking app freelancers",
-        "obsidian review 2026",
-        "notion ai review 2026",
-        "notion vs obsidian productivity",
-        "freelancer knowledge management"
-      ],
-      "wordCount": 2400,
-      "affiliateLinks": [
-        "https://m.do.co/c/6121a295f624",
-        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
-        "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
-        "https://afflink.one/s/aavAC",
-        "https://onelink.one/s/7WSzC",
-        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f",
-        "https://xiaofan8.gumroad.com/l/kknad"
-      ],
-      "notes": "High commercial intent 'X vs Y for freelancers' comparison."
-    },
-    {
-      "date": "2026-04-20",
-      "action": "published",
-      "file": "posts/best-ai-tools-for-small-business-2026.html",
-      "title": "9 Best AI Tools for Small Business in 2026 (Ranked by Real Impact)",
-      "keywords": [
-        "best ai tools for small business 2026",
-        "ai tools for small business",
-        "small business ai software",
-        "best ai business tools",
-        "ai for entrepreneurs 2026",
-        "small business productivity ai",
-        "affordable ai tools 2026"
-      ],
-      "wordCount": 2500,
-      "affiliateLinks": [
-        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f",
-        "https://m.do.co/c/6121a295f624",
-        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
-        "https://vbtrax.com/track/clicks/9453/c627c2bc9b0126dafe8dec2bd32e9d452d6745c963bcb0f90067b504641200a8cd3ea5e2576e9f663499abdb4aee7abb970d",
-        "https://afflink.one/s/aavAC",
-        "https://onelink.one/s/7WSzC",
-        "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
-        "https://xiaofan8.gumroad.com/l/kknad"
-      ],
-      "notes": "High commercial intent 'best AI tools for small business' listicle."
-    },
-    {
-      "date": "2026-04-19",
-      "action": "published",
-      "file": "posts/github-copilot-alternatives-2026.html",
-      "title": "7 Best GitHub Copilot Alternatives in 2026 (Ranked for Real Devs)",
-      "keywords": [
-        "github copilot alternatives",
-        "github copilot alternatives 2026",
-        "best ai coding assistant 2026",
-        "cursor vs copilot",
-        "tabnine vs copilot",
-        "codeium review",
-        "amazon q developer",
-        "ai pair programmer"
-      ],
-      "wordCount": 2400,
-      "affiliateLinks": [
-        "https://m.do.co/c/6121a295f624",
-        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
-        "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
-        "https://afflink.one/s/aavAC",
-        "https://onelink.one/s/7WSzC"
-      ],
-      "notes": "High commercial intent 'best X alternatives' article."
-    },
-    {
-      "date": "2026-04-18",
-      "action": "published",
-      "file": "posts/digitalocean-vs-vercel-for-indie-hackers-2026.html",
-      "title": "DigitalOcean vs Vercel 2026: Which Is Better for Indie Hackers?",
-      "keywords": [
-        "digitalocean vs vercel",
-        "digitalocean vs vercel 2026",
-        "vercel alternative",
-        "digitalocean review 2026",
-        "best hosting for indie hackers",
-        "vercel pricing",
-        "digitalocean droplets",
-        "indie hacker hosting"
-      ],
-      "wordCount": 2350,
-      "affiliateLinks": [
-        "https://m.do.co/c/6121a295f624",
-        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
-        "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
-        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f"
-      ],
-      "notes": "High commercial intent X vs Y comparison."
-    },
-    {
-      "date": "2026-04-17",
-      "action": "published",
-      "file": "posts/systeme-io-vs-clickfunnels-2026.html",
-      "title": "Systeme.io vs ClickFunnels 2026: Which Funnel Builder Is Actually Worth It?",
-      "keywords": [
-        "systeme.io vs clickfunnels",
-        "systeme.io vs clickfunnels 2026",
-        "clickfunnels alternative",
-        "systeme.io review 2026",
-        "best funnel builder 2026",
-        "clickfunnels pricing",
-        "systeme.io free plan"
-      ],
-      "wordCount": 2200,
-      "affiliateLinks": [
-        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f",
-        "https://m.do.co/c/6121a295f624",
-        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
-        "https://afflink.one/s/aavAC",
-        "https://xiaofan8.gumroad.com/l/kknad"
-      ],
-      "notes": "High commercial intent X vs Y comparison."
-    },
-    {
-      "date": "2026-04-16",
-      "action": "published",
-      "file": "posts/capcut-vs-descript-for-video-creators-2026.html",
-      "title": "CapCut vs Descript 2026: Which Video Editor Wins for Creators?",
-      "keywords": [
-        "capcut vs descript",
-        "capcut vs descript 2026",
-        "best video editor for content creators",
-        "descript alternative",
-        "capcut review 2026",
-        "video editing ai tools",
-        "descript vs capcut youtube"
-      ],
-      "wordCount": 2300,
-      "affiliateLinks": [
-        "https://vbtrax.com/track/clicks/9453/c627c2bc9b0126dafe8dec2bd32e9d452d6745c963bcb0f90067b504641200a8cd3ea5e2576e9f663499abdb4aee7abb970d",
-        "https://m.do.co/c/6121a295f624",
-        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
-        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f"
-      ],
-      "notes": "High commercial intent X vs Y comparison."
-    },
-    {
-      "date": "2026-04-15",
-      "action": "published",
-      "file": "posts/best-no-code-ai-automation-tools-2026.html",
-      "title": "7 Best No-Code AI Automation Tools in 2026 (Ranked for Non-Techies)",
-      "keywords": [
-        "best no-code ai automation tools",
-        "no code ai tools 2026",
-        "ai automation without coding",
-        "zapier alternatives 2026",
-        "make vs zapier",
-        "no code workflow automation"
-      ],
-      "wordCount": 2400,
-      "affiliateLinks": [
-        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f",
-        "https://m.do.co/c/6121a295f624",
-        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
-        "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71",
-        "https://afflink.one/s/aavAC"
-      ],
-      "notes": "High commercial intent 'best no-code X tools' listicle."
-    },
-    {
-      "date": "2026-04-14",
-      "action": "published",
-      "file": "posts/best-ai-tools-for-content-creators-2026.html",
-      "title": "9 Best AI Tools for Content Creators in 2026 (Ranked by Real ROI)",
-      "keywords": [
-        "best ai tools for content creators",
-        "ai tools for content creators 2026",
-        "capcut ai review",
-        "best tools for youtubers",
-        "content creator software 2026"
-      ],
-      "wordCount": 2450,
-      "affiliateLinks": [
-        "https://vbtrax.com/track/clicks/9453/c627c2bc9b0126dafe8dec2bd32e9d452d6745c963bcb0f90067b504641200a8cd3ea5e2576e9f663499abdb4aee7abb970d",
-        "https://afflink.one/s/aavAC",
-        "https://systeme.io/?sa=sa0087788052d81d9e6cfd5c00f0773e37e01e27f",
-        "https://xiaofan8.gumroad.com/l/kknad",
-        "https://onelink.one/s/7WSzC",
-        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
-        "https://m.do.co/c/6121a295f624",
-        "https://aftck.com/track/clicks/9568/c627c2bc9b0126dafe89ec23d62e9842226e4edf2aabebfd0266ba13234652eed671a3ea103a9e71"
-      ],
-      "notes": "High commercial intent 'best X for Y' listicle."
-    },
-    {
-      "date": "2026-04-13",
-      "action": "published",
-      "file": "posts/best-ai-writing-tools-for-seo-2026.html",
-      "title": "7 Best AI Writing Tools for SEO in 2026 (Ranked by Real Results)",
-      "keywords": [
-        "best ai writing tools for seo",
-        "ai seo writing tools 2026",
-        "surfer seo alternative",
-        "jasper ai vs claude seo"
-      ],
-      "wordCount": 2300,
-      "affiliateLinks": [
-        "https://m.do.co/c/6121a295f624"
-      ],
-      "notes": "High commercial intent 'best X for Y' listicle."
-    },
-    {
-      "date": "2026-04-12",
-      "action": "published",
-      "file": "posts/claude-vs-chatgpt-for-business-2026.html",
-      "title": "Claude vs ChatGPT for Business 2026: Which AI Is Worth Paying For?",
-      "keywords": [
-        "claude vs chatgpt",
-        "claude vs chatgpt for business",
-        "best ai model for business 2026"
-      ],
-      "wordCount": 2200,
-      "affiliateLinks": [
-        "https://m.do.co/c/6121a295f624"
-      ],
-      "notes": "High commercial intent 'vs' comparison article."
-    },
-    {
-      "date": "2026-04-11",
-      "action": "published",
-      "file": "posts/best-ai-tools-for-freelancers-2026.html",
-      "title": "7 Best AI Tools for Freelancers in 2026 (Ranked by ROI)",
-      "keywords": [
-        "best ai tools for freelancers",
-        "ai tools 2026",
-        "freelancer productivity tools"
-      ],
-      "wordCount": 2100,
-      "affiliateLinks": [
-        "https://m.do.co/c/6121a295f624"
-      ],
-      "notes": "First article published."
+      "notes": "High commercial intent listicle."
     },
     {
       "date": "2026-04-22",
@@ -475,6 +141,12 @@
     }
   ],
   "publishedPosts": [
+    {
+      "slug": "systeme-io-review-2026",
+      "url": "https://pink1119zz.github.io/ai-tools-en/posts/systeme-io-review-2026.html",
+      "publishedAt": "2026-05-18",
+      "title": "Systeme.io Review 2026: Is It Actually Worth It for Beginners?"
+    },
     {
       "slug": "cloudways-vs-wpengine-2026",
       "url": "https://pink1119zz.github.io/ai-tools-en/posts/cloudways-vs-wpengine-2026.html",
@@ -608,9 +280,7 @@
       "title": "Cloudways vs DigitalOcean 2026: Which Managed Hosting Actually Wins?"
     }
   ],
-  "topicBacklog": [
-    "systeme io review 2026 (standalone)"
-  ],
+  "topicBacklog": [],
   "internalLinkRuns": [
     {
       "date": "2026-04-22",
@@ -623,21 +293,6 @@
           "file": "best-ai-tools-for-remote-work-2026.html",
           "anchor": "7 Best AI Tools for Freelancers in 2026",
           "target": "best-ai-tools-for-freelancers-2026.html"
-        },
-        {
-          "file": "best-ai-tools-for-remote-work-2026.html",
-          "anchor": "7 Best No-Code AI Automation Tools in 2026",
-          "target": "best-no-code-ai-automation-tools-2026.html"
-        },
-        {
-          "file": "best-ai-tools-for-remote-work-2026.html",
-          "anchor": "Systeme.io vs ClickFunnels comparison",
-          "target": "systeme-io-vs-clickfunnels-2026.html"
-        },
-        {
-          "file": "best-ai-tools-for-remote-work-2026.html",
-          "anchor": "Notion AI vs Obsidian for Freelancers 2026",
-          "target": "notion-ai-vs-obsidian-for-freelancers-2026.html"
         }
       ]
     }

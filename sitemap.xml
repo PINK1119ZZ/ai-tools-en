@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/</loc>
-    <lastmod>2026-05-03</lastmod>
+    <lastmod>2026-05-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -103,6 +103,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pink1119zz.github.io/ai-tools-en/posts/cloudways-vs-wpengine-2026.html</loc>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/digitalocean-vs-vercel-for-indie-hackers-2026.html</loc>
     <lastmod>2026-04-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -139,8 +145,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pink1119zz.github.io/ai-tools-en/posts/cloudways-vs-wpengine-2026.html</loc>
-    <lastmod>2026-05-06</lastmod>
+    <loc>https://pink1119zz.github.io/ai-tools-en/posts/systeme-io-review-2026.html</loc>
+    <lastmod>2026-05-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
