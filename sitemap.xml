@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/</loc>
-    <lastmod>2026-05-21</lastmod>
+    <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://pink1119zz.github.io/ai-tools-en/posts/digitalocean-review-2026.html</loc>
-    <lastmod>2026-05-21</lastmod>
+    <loc>https://pink1119zz.github.io/ai-tools-en/posts/cloudways-alternatives-2026.html</loc>
+    <lastmod>2026-05-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -117,6 +117,12 @@
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/cloudways-vs-wpengine-2026.html</loc>
     <lastmod>2026-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pink1119zz.github.io/ai-tools-en/posts/digitalocean-review-2026.html</loc>
+    <lastmod>2026-05-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
