@@ -1,7 +1,17 @@
 {
-  "lastUpdated": "2026-05-24T04:00:00Z",
+  "lastUpdated": "2026-06-04T04:00:00Z",
   "status": "active",
   "agentLog": [
+    {
+      "date": "2026-06-04",
+      "action": "published",
+      "file": "posts/datacamp-review-2026.html",
+      "title": "DataCamp Review 2026: Is It Worth It for Learning Data Science & AI?",
+      "keywords": ["datacamp review", "datacamp review 2026", "is datacamp worth it", "datacamp pricing 2026", "datacamp vs coursera", "datacamp free plan", "best data science course 2026", "datacamp premium review"],
+      "wordCount": 2300,
+      "affiliateLinks": ["https://afflink.one/s/aavAC", "https://m.do.co/c/6121a295f624", "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d"],
+      "notes": "DataCamp standalone review — 2300-word deep dive targeting 'datacamp review 2026' and 'is datacamp worth it'. Score card (7 categories, 8.9/10 overall), AI/ML curriculum breakdown table (8 tracks), pricing grid (Free/Premium Monthly/Premium Annual/Teams), competitor comparison table (DataCamp vs Coursera vs Udemy vs Fast.ai, 11 features), pros/cons grid, persona grid (6 use cases), certifications section, 6-question FAQ schema + Article schema. Affiliate links: DataCamp (3×), DigitalOcean (1×), Cloudways (1×). 4 internal links: best-ai-tools-for-solopreneurs-2026, nordvpn-review-2026, best-ai-writing-tools-for-seo-2026, digitalocean-review-2026, best-no-code-ai-automation-tools-2026. Updated sitemap + index.html (New badge, card at top, removed New badge from capcut-review-2026)."
+    },
     {
       "date": "2026-05-24",
       "action": "published",
@@ -256,6 +266,12 @@
     }
   ],
   "publishedPosts": [
+    {
+      "slug": "datacamp-review-2026",
+      "url": "https://pink1119zz.github.io/ai-tools-en/posts/datacamp-review-2026.html",
+      "publishedAt": "2026-06-04",
+      "title": "DataCamp Review 2026: Is It Worth It for Learning Data Science & AI?"
+    },
     {
       "slug": "capcut-review-2026",
       "url": "https://pink1119zz.github.io/ai-tools-en/posts/capcut-review-2026.html",
