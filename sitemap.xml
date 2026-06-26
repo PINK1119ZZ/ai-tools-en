@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -109,12 +109,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pink1119zz.github.io/ai-tools-en/posts/claude-code-vs-cursor-2026.html</loc>
-    <lastmod>2026-06-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/bolt-new-vs-lovable-2026.html</loc>
     <lastmod>2026-06-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -129,6 +123,12 @@
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/capcut-vs-descript-for-video-creators-2026.html</loc>
     <lastmod>2026-04-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pink1119zz.github.io/ai-tools-en/posts/claude-code-vs-cursor-2026.html</loc>
+    <lastmod>2026-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
