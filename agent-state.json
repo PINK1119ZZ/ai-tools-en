@@ -1,7 +1,30 @@
 {
-  "lastUpdated": "2026-07-24T04:00:00Z",
+  "lastUpdated": "2026-08-05T04:07:00Z",
   "status": "active",
   "agentLog": [
+    {
+      "date": "2026-08-05",
+      "action": "published",
+      "file": "posts/vercel-vs-netlify-2026.html",
+      "title": "Vercel vs Netlify 2026: Which Hosting Platform Actually Wins?",
+      "keywords": [
+        "vercel vs netlify 2026",
+        "vercel vs netlify",
+        "netlify vs vercel",
+        "is vercel better than netlify",
+        "vercel review 2026",
+        "netlify review 2026",
+        "best frontend hosting 2026",
+        "vercel alternatives"
+      ],
+      "wordCount": 2100,
+      "affiliateLinks": [
+        "https://m.do.co/c/6121a295f624",
+        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
+        "https://afflink.one/s/aavAC"
+      ],
+      "notes": "Vercel vs Netlify X vs Y comparison — 2100 words targeting 'vercel vs netlify 2026'. Two score cards (Vercel 9.1/10 Best for Next.js, Netlify 8.7/10 Best for JAMstack), 12-row feature comparison table, pricing cards (3 tiers each), 3 performance benchmark rows (TTFB static, TTFB SSR, ISR revalidation, cold starts, build time), DX deep-dive sections (Vercel vs Netlify dashboard/CLI), 4 real-world scenarios (Next.js SaaS, marketing site, agency, indie hacker), pros/cons grids, verdict box, 7-question FAQ schema + Article schema. Affiliate CTAs: DigitalOcean (2x), Cloudways (2x), DataCamp (1x). Internal links: digitalocean-vs-vercel-for-indie-hackers-2026, cloudways-review-2026, digitalocean-review-2026, best-cloud-hosting-providers-2026. Updated sitemap + index.html (New badge on new card, removed New from digitalocean-vs-vultr-2026)."
+    },
     {
       "date": "2026-07-24",
       "action": "published",
@@ -254,6 +277,12 @@
     }
   ],
   "publishedPosts": [
+    {
+      "slug": "vercel-vs-netlify-2026",
+      "url": "https://pink1119zz.github.io/ai-tools-en/posts/vercel-vs-netlify-2026.html",
+      "publishedAt": "2026-08-05",
+      "title": "Vercel vs Netlify 2026: Which Hosting Platform Actually Wins?"
+    },
     {
       "slug": "digitalocean-vs-vultr-2026",
       "url": "https://pink1119zz.github.io/ai-tools-en/posts/digitalocean-vs-vultr-2026.html",
