@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/</loc>
-    <lastmod>2026-07-24</lastmod>
+    <lastmod>2026-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://pink1119zz.github.io/ai-tools-en/posts/kinsta-vs-wpengine-2026.html</loc>
+    <lastmod>2026-08-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/ai-agents-guide-2026.html</loc>
@@ -266,7 +272,7 @@
   </url>
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/kinsta-vs-wpengine-2026.html</loc>
-    <lastmod>2026-07-17</lastmod>
+    <lastmod>2026-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -284,7 +290,7 @@
   </url>
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/nordvpn-vs-surfshark-2026.html</loc>
-    <lastmod>2026-07-21</lastmod>
+    <lastmod>2026-08-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -337,6 +343,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://pink1119zz.github.io/ai-tools-en/posts/vercel-vs-netlify-2026.html</loc>
+    <lastmod>2026-08-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/windsurf-ai-review-2026.html</loc>
     <lastmod>2026-06-13</lastmod>
     <changefreq>weekly</changefreq>
@@ -348,10 +360,4 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-    <url>
-        <loc>https://pink1119zz.github.io/ai-tools-en/posts/vercel-vs-netlify-2026.html</loc>
-        <lastmod>2026-08-05</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
 </urlset>
