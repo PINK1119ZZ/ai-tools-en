@@ -1,7 +1,33 @@
 {
-  "lastUpdated": "2026-08-29T04:00:00Z",
+  "lastUpdated": "2026-08-30T04:00:00Z",
   "status": "active",
   "agentLog": [
+    {
+      "date": "2026-08-30",
+      "action": "published",
+      "file": "posts/linear-vs-jira-2026.html",
+      "title": "Linear vs Jira 2026: Which Issue Tracker Actually Wins for Dev Teams?",
+      "keywords": [
+        "linear vs jira 2026",
+        "linear vs jira",
+        "jira vs linear",
+        "best issue tracker 2026",
+        "linear review 2026",
+        "jira review 2026",
+        "linear alternatives 2026",
+        "jira alternatives 2026",
+        "project management for developers 2026",
+        "linear app vs jira"
+      ],
+      "wordCount": 2400,
+      "affiliateLinks": [
+        "https://m.do.co/c/6121a295f624",
+        "https://afflink.one/s/aavAC",
+        "https://vbtrax.com/track/clicks/9532/c627c2bc9b0126dafe8fec2bd32e9d452c6644ca63bcb0f90067b504641200a8cd3ea4e4566e9f663499abdb4aee7abb970d",
+        "https://onelink.one/s/7WSzC"
+      ],
+      "notes": "Linear vs Jira X vs Y comparison — ~2400 words targeting 'linear vs jira 2026'. Two score cards (Linear 9.2/10 Best for Fast-Moving Teams, Jira 8.7/10 Best for Enterprise Complexity), 16-row feature comparison table, philosophy section (Linear opinionated-by-design vs Jira infinitely configurable), dedicated speed section explaining the structural gap, sprint/cycle deep-dive (Linear cycles: auto-reschedule/cooldowns/cross-team visibility vs Jira: burndown/velocity/CFD/retrospectives), AI section (Linear AI: issue creation/sub-issues/deduplication/triage at no extra cost vs Atlassian Intelligence + Rovo: NL JQL/cross-product search/Premium required), GitHub/GitLab integration (Linear first-class native vs Jira functional but more setup), triage inbox section, pricing tables (4 Linear tiers + 4 Jira tiers with TCO warning box), pros/cons grids, 6-card persona guide for each tool, alternatives table (ClickUp/Asana/Shortcut/Plane/GitHub Issues/Height), migration section (Jira→Linear importer), verdict box, 8-question FAQ schema + Article schema. Affiliate CTAs: DigitalOcean (1×), DataCamp (1×), Cloudways (1×), NordVPN (1×). Internal links: clickup-vs-notion-2026, monday-vs-asana-2026, best-ai-tools-for-small-business-2026, best-no-code-ai-automation-tools-2026. Updated sitemap (homepage lastmod 2026-08-30, new entry) + index.html (New badge on new card, removed New from clickup-vs-notion-2026)."
+    },
     {
       "date": "2026-08-29",
       "action": "published",
@@ -345,6 +371,12 @@
     }
   ],
   "publishedPosts": [
+    {
+      "slug": "linear-vs-jira-2026",
+      "url": "https://pink1119zz.github.io/ai-tools-en/posts/linear-vs-jira-2026.html",
+      "publishedAt": "2026-08-30",
+      "title": "Linear vs Jira 2026: Which Issue Tracker Actually Wins for Dev Teams?"
+    },
     {
       "slug": "clickup-vs-notion-2026",
       "url": "https://pink1119zz.github.io/ai-tools-en/posts/clickup-vs-notion-2026.html",
