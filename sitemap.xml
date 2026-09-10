@@ -2,9 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/</loc>
-    <lastmod>2026-09-08</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://pink1119zz.github.io/ai-tools-en/posts/claude-3-5-sonnet-vs-gpt-4o-2026.html</loc>
+    <lastmod>2026-09-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/activecampaign-vs-mailchimp-2026.html</loc>
@@ -128,7 +134,7 @@
   </url>
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/best-cloud-hosting-providers-2026.html</loc>
-    <lastmod>2026-07-18</lastmod>
+    <lastmod>2026-09-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -385,12 +391,6 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://pink1119zz.github.io/ai-tools-en/posts/perplexity-ai-vs-chatgpt-2026.html</loc>
-    <lastmod>2026-09-08</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/notion-ai-vs-chatgpt-2026.html</loc>
     <lastmod>2026-09-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -405,6 +405,12 @@
   <url>
     <loc>https://pink1119zz.github.io/ai-tools-en/posts/notion-vs-asana-2026.html</loc>
     <lastmod>2026-08-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pink1119zz.github.io/ai-tools-en/posts/perplexity-ai-vs-chatgpt-2026.html</loc>
+    <lastmod>2026-09-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
